@@ -1,0 +1,1 @@
+value.pop[7]
